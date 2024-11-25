@@ -1,2 +1,2 @@
-# DS
-Some codes related to DataStructures
+# Data Structures
+Programs demonstrating the use of data structures.
